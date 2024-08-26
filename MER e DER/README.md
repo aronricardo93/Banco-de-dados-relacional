@@ -32,4 +32,4 @@ O **Diagrama Entidade-Relacionamento (DER)** é a representação gráfica do ME
      ***0:n*** (cada destino pode ser vinculado a várias reservas).
 
 ### DER
-![Diagrama Exemplo](assets/DER.png)
+![Diagrama Exemplo](https://github.com/aronricardo93/Banco-de-dados-relacional/blob/master/assets/DER.png)
