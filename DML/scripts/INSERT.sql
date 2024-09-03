@@ -16,7 +16,7 @@ INSERT INTO destinos (id, nome, descricao) VALUES
 
 
 INSERT INTO reservas(id, id_usuarios, id_destinos, data_reserva,status) VALUES 
-(1, 1, 1,'2024-12-30','PENDENTE');
 (1, 1, 2, '2024-09-10', 'CONFIRMADA'),
 (2, 2, 1, '2024-11-05', 'PENDENTE'),
-(3, 3, 3, '2025-01-20', 'CANCELADA');
+(3, 3, 3, '2025-01-20', 'CANCELADA'),
+(4, 1, 1,'2024-12-30','PENDENTE');
